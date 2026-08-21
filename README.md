@@ -1,2 +1,20 @@
-# restaurant-website
-A fully responsive restaurant website built with HTML, CSS, and JavaScript featuring an interactive menu, food gallery, online table booking, customer reviews, and a modern UI/UX design.
+## 🍽️ Restaurant Website
+
+A responsive restaurant website created using HTML, CSS and JavaScript.
+
+### ✨ Features
+
+- 🏠 Home page
+- 🍴 Menu section
+- 🖼️ Gallery
+- 📅 Table booking
+- ⭐ Customer reviews
+- 📱 Responsive design
+
+### 🛠️ Technologies
+
+HTML • CSS • JavaScript
+
+### 🌐 Live Demo
+
+[View Restaurant Website](https://sanikadeshmukh-3101.github.io/restaurant-website/)
